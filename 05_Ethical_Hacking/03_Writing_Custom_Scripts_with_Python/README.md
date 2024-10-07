@@ -1,0 +1,2 @@
+# 05_Ethical_Hacking/03_Writing_Custom_Scripts_with_Python
+This directory contains resources and materials related to 05_Ethical_Hacking/03_Writing_Custom_Scripts_with_Python.

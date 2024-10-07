@@ -1,0 +1,2 @@
+# 05_Ethical_Hacking/01_Penetration_Testing_Methodologies
+This directory contains resources and materials related to 05_Ethical_Hacking/01_Penetration_Testing_Methodologies.

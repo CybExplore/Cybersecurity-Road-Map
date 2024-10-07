@@ -1,0 +1,2 @@
+# 08_Certification/03_Certification_Resources
+This directory contains resources and materials related to 08_Certification/03_Certification_Resources.

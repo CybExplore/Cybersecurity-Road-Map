@@ -1,0 +1,2 @@
+# 02_Network_Security/04_Securing_Networks_with_Python
+This directory contains resources and materials related to 02_Network_Security/04_Securing_Networks_with_Python.

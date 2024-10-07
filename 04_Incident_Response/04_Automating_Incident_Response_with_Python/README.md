@@ -1,0 +1,2 @@
+# 04_Incident_Response/04_Automating_Incident_Response_with_Python
+This directory contains resources and materials related to 04_Incident_Response/04_Automating_Incident_Response_with_Python.

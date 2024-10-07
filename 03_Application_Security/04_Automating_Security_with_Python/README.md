@@ -1,0 +1,2 @@
+# 03_Application_Security/04_Automating_Security_with_Python
+This directory contains resources and materials related to 03_Application_Security/04_Automating_Security_with_Python.

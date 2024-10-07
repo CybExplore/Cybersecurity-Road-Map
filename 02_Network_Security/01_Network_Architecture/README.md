@@ -1,0 +1,2 @@
+# 02_Network_Security/01_Network_Architecture
+This directory contains resources and materials related to 02_Network_Security/01_Network_Architecture.

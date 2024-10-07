@@ -1,0 +1,2 @@
+# 06_Hands-On_Labs/03_Incident_Response_Simulation_Labs
+This directory contains resources and materials related to 06_Hands-On_Labs/03_Incident_Response_Simulation_Labs.
